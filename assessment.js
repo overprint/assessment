@@ -63,7 +63,8 @@ const answers = [
     '{userName}のいいところ８',
     '{userName}のいいところ９',
     '{userName}のいいところ１０',
-    '{userName}のいいところ１１'
+    '{userName}のいいところ１１',
+    '{userName}のいいところ１２'
 ]
 
 /*
